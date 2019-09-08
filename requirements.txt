@@ -1,2 +1,4 @@
 pandas
 pdfrw
+PyPDF2
+canvas
